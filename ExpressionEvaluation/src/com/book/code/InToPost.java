@@ -1,5 +1,6 @@
 package com.book.code;
 
+
 import java.util.Stack;
 
 public class InToPost {
